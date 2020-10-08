@@ -1,0 +1,11 @@
+.photo-grid
+{
+    display: flex;
+
+    max-width: 1184px;
+    margin: auto;
+    padding-bottom: 76px;
+
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

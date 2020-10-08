@@ -1,0 +1,7 @@
+.place__website
+{
+    display: flex;
+
+    align-self: flex-end;
+    flex-wrap: wrap;
+}
