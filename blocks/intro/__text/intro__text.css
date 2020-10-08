@@ -9,3 +9,10 @@
 
     color: #fff;
 }
+
+@media (max-width: 768px){
+    .intro__text
+    {
+        max-width: 100%;
+    }
+}

@@ -5,3 +5,11 @@
     align-self: flex-end;
     flex-wrap: wrap;
 }
+
+@media (max-width: 768px)
+{
+    .place__website
+    {
+        display: none;
+    }
+}

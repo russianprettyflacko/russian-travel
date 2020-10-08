@@ -4,3 +4,25 @@
     margin: auto;
     padding-bottom: 92px;
 }
+
+@media (max-width: 1280px){
+    .intro
+    {
+        max-width: 928px;
+    }
+}
+
+@media (max-width: 1024px){
+    .intro
+    {
+        max-width: 720px;
+    }
+}
+
+@media (max-width: 768px){
+    .intro
+    {
+        max-width: 288px;
+        padding-bottom: 64px;
+    }
+}

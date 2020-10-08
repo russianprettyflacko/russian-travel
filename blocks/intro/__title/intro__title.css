@@ -8,3 +8,18 @@
 
     color: #fff;
 }
+
+@media (max-width: 1024px){
+    .intro__title
+    {
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 768px){
+    .intro__title
+    {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

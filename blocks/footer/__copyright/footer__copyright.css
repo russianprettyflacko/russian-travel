@@ -9,3 +9,11 @@
 
     color: #fff;
 }
+
+@media (max-width: 768px){
+    .footer__copyright{
+        margin: 0;
+        line-height: 14px;
+        margin-top: 16px;
+    }
+}

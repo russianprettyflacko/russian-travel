@@ -5,3 +5,11 @@
     margin-right: auto;
     margin-right: auto;
 }
+
+@media (max-width: 768px){
+    .header__logo
+    {
+        width: 142px;
+        height: 42px;
+    }
+}

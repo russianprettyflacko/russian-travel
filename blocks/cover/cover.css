@@ -8,3 +8,17 @@
     max-height: 740px;
     margin: auto auto 92px;
 }
+
+@media (max-width: 1280px){
+    .cover
+    {
+        max-width: 1024px;
+    }
+}
+
+@media (max-width: 768px){
+    .cover
+    {
+        margin: auto auto 64px;
+    }
+}

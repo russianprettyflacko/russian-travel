@@ -7,3 +7,10 @@
 
     list-style: none;
 }
+
+@media (max-width: 768px){
+    .footer__links
+    {
+        flex-wrap: wrap;
+    }
+}
