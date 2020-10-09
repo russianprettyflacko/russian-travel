@@ -1,24 +1,26 @@
 .cover
 {
-    position: relative;
+  position: relative;
 
-    display: flex;
+  display: flex;
 
-    max-width: 1184px;
-    max-height: 740px;
-    margin: auto auto 92px;
+  max-width: 1184px;
+  max-height: 740px;
+  margin: auto auto 92px;
 }
 
-@media (max-width: 1280px){
-    .cover
-    {
-        max-width: 1024px;
-    }
+@media (max-width: 1280px)
+{
+  .cover
+  {
+    max-width: 1024px;
+  }
 }
 
-@media (max-width: 767px){
-    .cover
-    {
-        margin: auto auto 64px;
-    }
+@media (max-width: 767px)
+{
+  .cover
+  {
+    margin: auto auto 64px;
+  }
 }

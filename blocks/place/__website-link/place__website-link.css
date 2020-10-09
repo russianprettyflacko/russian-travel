@@ -1,20 +1,20 @@
 .place__website-link
 {
-    font-size: 18px;
-    line-height: 22px;
+  font-size: 18px;
+  line-height: 22px;
 
-    padding-top: 12px;
+  padding-top: 12px;
 
-    transition: opacity .3s;
+  transition: opacity .3s;
 
-    color: #fff;
+  color: #fff;
 
-    text-decoration-line: underline;
+  text-decoration-line: underline;
 }
 
 .place__website-link:hover
 {
-    transition: opacity .3s;
+  transition: opacity .3s;
 
-    opacity: .8;
+  opacity: .8;
 }

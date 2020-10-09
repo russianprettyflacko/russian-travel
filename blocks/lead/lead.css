@@ -1,27 +1,30 @@
 .lead
 {
-    max-width: 984px;
-    margin: auto;
-    padding-bottom: 92px;
+  max-width: 984px;
+  margin: auto;
+  padding-bottom: 92px;
 }
 
-@media (max-width: 1280px){
-    .lead
-    {
-        max-width: 928px;
-    }
+@media (max-width: 1280px)
+{
+  .lead
+  {
+    max-width: 928px;
+  }
 }
 
-@media (max-width: 1024px){
-    .lead
-    {
-        max-width: 768px;
-    }
+@media (max-width: 1024px)
+{
+  .lead
+  {
+    max-width: 768px;
+  }
 }
 
-@media (max-width: 767px){
-    .lead
-    {
-        padding-bottom: 64px;
-    }
+@media (max-width: 767px)
+{
+  .lead
+  {
+    padding-bottom: 64px;
+  }
 }

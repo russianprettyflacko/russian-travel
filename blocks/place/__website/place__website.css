@@ -1,14 +1,15 @@
 .place__website
 {
-    display: flex;
+  display: flex;
 
-    align-self: flex-end;
-    flex-wrap: wrap;
+  align-self: flex-end;
+  flex-wrap: wrap;
 }
 
-@media (max-width: 767px){
-    .place__website
-    {
-        display: none;
-    }
+@media (max-width: 767px)
+{
+  .place__website
+  {
+    display: none;
+  }
 }

@@ -1,26 +1,28 @@
 .lead__caption
 {
-    font-size: 10px;
-    line-height: 14px;
+  font-size: 10px;
+  line-height: 14px;
 
-    margin: 8px 0 0;
+  margin: 8px 0 0;
 
-    letter-spacing: .15em;
-    text-transform: uppercase;
+  letter-spacing: .15em;
+  text-transform: uppercase;
 
-    color: #fff;
+  color: #fff;
 }
 
-@media (max-width: 1024px){
-    .lead__caption
-    {
-        padding-left: 24px;
-    }
+@media (max-width: 1024px)
+{
+  .lead__caption
+  {
+    padding-left: 24px;
+  }
 }
 
-@media (max-width: 767px){
-    .lead__caption
-    {
-        padding-left: 16px;
-    }
+@media (max-width: 767px)
+{
+  .lead__caption
+  {
+    padding-left: 16px;
+  }
 }

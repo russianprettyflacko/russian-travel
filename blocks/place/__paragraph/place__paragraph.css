@@ -1,25 +1,27 @@
 .place__paragraph
 {
-    font-size: 18px;
+  font-size: 18px;
+  line-height: 163%;
+
+  margin: 0;
+  margin-bottom: 24px;
+
+  color: #fff;
+}
+
+@media (max-width: 1024px)
+{
+  .place__paragraph
+  {
+    font-size: 16px;
     line-height: 163%;
-
-    margin: 0;
-    margin-bottom: 24px;
-
-    color: #fff;
+  }
 }
 
-@media (max-width: 1024px){
-    .place__paragraph
-    {
-        font-size: 16px;
-        line-height: 163%;
-    }
-}
-
-@media (max-width: 767px){
-    .place__paragraph
-    {
-        padding: 0 16px;
-    }
+@media (max-width: 767px)
+{
+  .place__paragraph
+  {
+    padding: 0 16px;
+  }
 }
