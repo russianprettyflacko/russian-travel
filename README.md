@@ -12,3 +12,5 @@
 * CSS
 * [BEM](https://ru.bem.info/)
 * [GIT](https://github.com/)
+
+#### Ссылка на github-pages: [https://russianprettyflacko.github.io/russian-travel/](https://russianprettyflacko.github.io/russian-travel/)
